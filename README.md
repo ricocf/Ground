@@ -1,33 +1,5 @@
 # HD Ground Database
-This repository provides the HD Ground Database. A large database of high-resolution ground images from a downward-facing camera. It can be used, for example, to train and evaluate methods for ground texture based localization (global map-based localization without approximate pose being available, local map-based localization with an approximate pose being available, and relative localization). For many images, we provide their ground truth poses.
 
-## License
-© 2022. This work is licensed under a CC BY-SA: 4.0 license.
-https://creativecommons.org/licenses/by-sa/4.0/
-
-## Paper
-https://ieeexplore.ieee.org/document/9811977
-
-## Citation
-Please cite us if you are using our database.
-
-```
-@ARTICLE{HD_Ground_Schmid,
-author={J. F. Schmid and S. F. Simon and R. Radhakrishnan and S. Frintrop and R. Mester},
-journal={IEEE International Conference on Robotics and Automation (ICRA)},
-title={{HD Ground} - A Database for Ground Texture Based Localization},
-year={2022},
-month={Mai},
-pages={7628-7634},
-}
-```
-
-## Get access
-In order to get access to the data, please send an E-Mail to HD.Ground.Database@gmail.com with the following content:
-
-- Name
-- Affiliation
-- Why would you like to get access to the data?
 
 ## Content of the HD Ground Database
 The database contains images of four main application areas and seven additional areas.
